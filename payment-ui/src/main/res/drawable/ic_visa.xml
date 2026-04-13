@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="32dp"
+    android:viewportWidth="48"
+    android:viewportHeight="32">
+
+    <!-- Background -->
+    <path
+        android:pathData="M4,0h40c2.2,0 4,1.8 4,4v24c0,2.2 -1.8,4 -4,4H4c-2.2,0 -4,-1.8 -4,-4V4c0,-2.2 1.8,-4 4,-4z"
+        android:fillColor="#1A1F71"/>
+
+    <!-- V -->
+    <path
+        android:pathData="M18.5,21.5L15.8,10.5h-2.7l2.7,11z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- I -->
+    <path
+        android:pathData="M20.2,10.5L20.2,21.5h2.3v-11z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- S -->
+    <path
+        android:pathData="M27.5,10.3c-1.3,0 -2.3,0.5 -2.3,0.5l-0.4,1.8c0,0 1,-0.5 2.1,-0.5c0.8,0 1.3,0.4 1.3,0.9c0,0.5 -0.3,0.8 -1.3,1.3c-1.3,0.6 -2,1.5 -2,2.7c0,1.8 1.5,3 3.3,3c1.2,0 2.1,-0.4 2.1,-0.4l0.4,-1.9c0,0 -1,0.5 -2,0.5c-0.7,0 -1.2,-0.4 -1.2,-0.9c0,-0.4 0.3,-0.7 1.1,-1.1c1.2,-0.6 2.2,-1.5 2.2,-2.8c0,-1.9 -1.5,-3.1 -3.3,-3.1z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- A -->
+    <path
+        android:pathData="M34.5,10.5l-3.5,11h2.5l0.5,-1.8h3l0.5,1.8h2.3l-3,-11zM34.5,17.7l1,-3.5l1,3.5z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Gold stripe -->
+    <path
+        android:pathData="M0,22h48v2H0z"
+        android:fillColor="#F7B600"/>
+</vector>
